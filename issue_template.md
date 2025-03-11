@@ -1,12 +1,18 @@
 User Story 1: Account Registration
+
 Title: Account Registration
+
 As a user, I want to register with my name, username, age, and country so that I can create an account and access the habit tracking features.
+
 Acceptance Criteria:
 1.	The registration form must include fields for name, username, age, and country.
 2.	The system should validate all required fields before allowing submission.
 3.	Upon successful registration, the user should see a confirmation message and be redirected to the login page.
+   
 Priority: High
+
 Story Points: 3
+
 Notes:
 •	Users should not be able to register with a duplicate username.
 •	No password is required at registration since login is restricted to default credentials.
