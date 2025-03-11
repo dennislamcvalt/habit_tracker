@@ -1,2 +1,2 @@
 # IBMMAD
-Mobile App Development Project
+Mobile App Development Final Project Submission and Evaluation
